@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard designed to analyze key hospital metrics such as patient flow, departmental performance, treatment success rates, and doctor efficiency. This project demonstrates data-driven healthcare decision-making using real-time data visualization.
 
-![Dashboard Preview](preview.png) <!-- Add a screenshot if possible -->
 
 ## 📊 Project Overview
 
@@ -70,6 +69,8 @@ This dataset provides key insights into patient care, hospital operations, and f
 - Healthcare consulting reports
 
 ## 📸 Screenshots
+
+![Dashboard Screenshot](https://github.com/manishdevdi/Hospital-Insights-Dashboard/blob/main/Dashboard.png)
 
 ## 📂 Repository Structure
 
