@@ -24,7 +24,29 @@ This Power BI project analyzes hospital data for 1,000 patients across 5 hospita
 
 ## 📁 Data Source
 
-Dummy hospital data was used for this project to simulate a real-world healthcare environment. The dataset was cleaned and modeled using Power Query before dashboard development.
+This project utilizes two Excel sheets containing data for 1000 patients and 5 hospitals. The dataset includes:
+
+Patient Information
+Patient: Unique identifier
+PatientName: Full name
+Age: Age at admission
+Gender: Gender
+Bloodtype: Blood type
+Diagnosis: Primary diagnosis
+Treatment: Administered treatment(s)
+AdmissionDate: Admission date
+DischargeDate: Discharge date
+TotalBill: Total cost of stay
+Full Prescription Details: Medication details
+Hospital and Staff Information
+Patient: Unique identifier
+Hospital: Name of hospital
+DoctorName: Attending doctor
+RoomNumber: Room number
+DailyCost: Daily cost of stay
+Treatment: Administered treatment(s)
+RecoveryRating: Patient's recovery rating
+This dataset provides key insights into patient care, hospital operations, and financial data.
 
 ## 💡 Insights Derived
 
