@@ -2,10 +2,13 @@
 
 An interactive Power BI dashboard designed to analyze key hospital metrics such as patient flow, departmental performance, treatment success rates, and doctor efficiency. This project demonstrates data-driven healthcare decision-making using real-time data visualization.
 
+---
 
 ## 📊 Project Overview
 
 This Power BI project analyzes hospital data for 1,000 patients across 5 hospitals, focusing on key areas such as patient demographics, treatment outcomes, and cost efficiency. The interactive dashboard uncovers actionable insights that support strategic decision-making in healthcare management.
+
+---
 
 ### Key Features
 
@@ -14,12 +17,16 @@ This Power BI project analyzes hospital data for 1,000 patients across 5 hospita
 - Filters and slicers to dynamically view data by time period, gender, treatment type, and more.
 - KPI cards for real-time tracking of hospital health indicators.
 
+---
+
 ## 🛠 Tools & Technologies
 
 - **Power BI** – Data visualization and dashboard creation
 - **Microsoft Excel** – Data source and pre-processing
 - **DAX (Data Analysis Expressions)** – Custom metrics and calculated measures
 - **Power Query** – Data transformation and cleaning
+
+---
 
 ## 📁 Data Source
 
@@ -48,6 +55,8 @@ This project utilizes two Excel sheets containing data for 1000 patients and 5 h
 
 This dataset provides key insights into patient care, hospital operations, and financial data.
 
+---
+
 ## 💡 Insights Derived
 
 - Identification of overburdened departments with high patient volume.
@@ -55,11 +64,15 @@ This dataset provides key insights into patient care, hospital operations, and f
 - Comparison of treatment outcomes across different departments.
 - Doctor-wise analysis for operational efficiency.
 
+---
+
 ## 🚀 Improvements Made
 
 - Customized color scheme and layout for better user experience.
 - Added additional slicers for gender and treatment types.
 - Enhanced performance metrics using optimized DAX calculations.
+
+---
 
 ## 📌 Use Cases
 
@@ -68,9 +81,19 @@ This dataset provides key insights into patient care, hospital operations, and f
 - Patient experience and care outcome monitoring
 - Healthcare consulting reports
 
+---
+
 ## 📸 Screenshots
 
 ![Dashboard Screenshot](https://github.com/manishdevdi/Hospital-Insights-Dashboard/blob/main/Dashboard.png)
 
-## 📂 Repository Structure
+---
+
+## 📧 Contact  
+📌 **Author:**  Manish Devdi   
+
+📌 **GitHub:**  [manishdevdi](https://github.com/manishdevdi)              📌 **LinkedIn:** [Manish Devdi](https://www.linkedin.com/in/manish-devdi-63bb78234/)  
+
+⭐ **If you like this project, give it a star!** ⭐  
+
 
